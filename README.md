@@ -8,8 +8,8 @@
 <p align="left">❇️ Hey there! I’m a Full-Stack Developer who enjoys building cool things from pixels to APIs. <br>🎓 In the final sem of my B.Tech in Computer Science and Engineering, graduating in July'25<br>👩‍💻 Currently working as a Lead Web Dev at a gaming startup and leading cross-functional teams<br>🔧 Constantly creating functional and creative projects — you’ll find a few of them right here on my GitHub.<br>🎻 And when I’m not on the 1000th line of code, I’m probably on the 16th stem of my next music project... because why not?</p>
 
 <div align="right">
-  <a href="www.linkedin.com/in/anshikasansanwal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="27" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/anshikasansanwal" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="27" height="25" alt="linkedin logo" />
   </a>
 </div>
  
