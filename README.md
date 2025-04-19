@@ -115,8 +115,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshikasansanwal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&custom_title=My%20GitHub%20Stats" height="188" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=anshikasansanwal&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="188" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshikasansanwal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&custom_title=My%20GitHub%20Stats" height="185" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=anshikasansanwal&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="185" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=anshikasansanwal&theme=kimbie_dark&no-frame=false&no-bg=true&column=8&row=1&margin-w=7&margin-h=1" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshikasansanwal&area=false&theme=chartreuse-dark&hide_border=false&custom_title=My%20Contribution%20Gaph&area_color=#ff00de&color=ff00de&bg_color=ff00de&line=#ff00de" height="331" alt="activity-graph graph"  />
 </div>
