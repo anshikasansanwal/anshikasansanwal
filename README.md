@@ -1,4 +1,3 @@
-
 ![linkedin banner](https://github.com/user-attachments/assets/b56f21c1-6b9e-4f18-9489-4a91360e5ffd)
 
 <h2 align="left">🙋🏻‍♀️ whoami</h2>
@@ -116,7 +115,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anshikasansanwal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&custom_title=My%20GitHub%20Stats" height="205" alt="stats graph"  /> <br>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshikasansanwal&" alt="anshikasansanwal" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshikasansanwal&area=false&theme=chartreuse-dark&hide_border=false&custom_title=My%20Contribution%20Gaph&area_color=#ff00de&color=ff00de&bg_color=ff00de&line=#ff00de" height="331" alt="activity-graph graph"  />
 </div>
 
