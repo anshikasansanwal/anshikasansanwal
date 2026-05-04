@@ -23,7 +23,7 @@ Building across product engineering, AI systems, and scalable web architecture.
 </p>
 
 <div align="left">
-  <img src="./metrics.plugin.topics.svg" alt="Tech stack topics" />
+  <img src="https://raw.githubusercontent.com/anshikasansanwal/anshikasansanwal/main/metrics.plugin.topics.svg" alt="Tech stack topics" />
 </div>
 
 
@@ -35,7 +35,7 @@ Building across product engineering, AI systems, and scalable web architecture.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshikasansanwal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&custom_title=My%20GitHub%20Stats" height="205" alt="stats graph"  /> <br>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshikasansanwal&area=false&theme=chartreuse-dark&hide_border=false&custom_title=My%20Contribution%20Gaph&area_color=#ff00de&color=ff00de&bg_color=ff00de&line=#ff00de" height="331" alt="activity-graph graph"  />
 </div>
 
